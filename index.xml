@@ -6,22 +6,22 @@
     <description>Recent content on 在下的第一个博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-Hans</language>
-    <lastBuildDate>Wed, 18 Mar 2020 11:55:24 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 18 Mar 2020 12:53:41 +0800</lastBuildDate>
     
 	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>如何用GithubPages预览HTML</title>
-      <link>http://example.org/posts/%E5%A6%82%E4%BD%95%E7%94%A8githubpages%E9%A2%84%E8%A7%88html/</link>
-      <pubDate>Wed, 18 Mar 2020 11:55:24 +0800</pubDate>
+      <link>http://example.org/posts/1/</link>
+      <pubDate>Wed, 18 Mar 2020 12:53:41 +0800</pubDate>
       
-      <guid>http://example.org/posts/%E5%A6%82%E4%BD%95%E7%94%A8githubpages%E9%A2%84%E8%A7%88html/</guid>
+      <guid>http://example.org/posts/1/</guid>
       <description>本博客将带来一次GitHub Pages预览HTML的小教程，教程的建立在你已经熟悉了一系列命令行的操作。
 步骤如下：   首先在GitHub中建立一个仓库，期间注意所有的选项都不要打勾哦！
   然后在你已经创建好的含有index.html的目录中打开VSCode。
   执行如下指令：
-  git initgit add .git commit -m &amp;#39;GithubPages预览HTML&amp;#39;git remote add origin git@xxxxxx(此处应为你的仓库地址)git push -u origin master接着，进入你的GitHub主页中，打开你的对应仓库，进入settings选项，往下翻动看到GitHub Pages一项，直接点击对应的网站便可打开你想预览的html了！  如图所示： </description>
+  git init git add . git commit -m &amp;#39;GithubPages预览HTML&amp;#39; git remote add origin git@xxxxxx(此处应为你的仓库地址) git push -u origin master 接着，进入你的GitHub主页中，打开你的对应仓库，进入settings选项，往下翻动看到GitHub Pages一项，直接点击对应的网站便可打开你想预览的html了！  如图所示： </description>
     </item>
     
   </channel>
