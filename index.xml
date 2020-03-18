@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>在下的第一个博客</title>
-    <link>http://example.org/</link>
+    <link>http://sakurachen297.github.io/</link>
     <description>Recent content on 在下的第一个博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-Hans</language>
     <lastBuildDate>Wed, 18 Mar 2020 12:53:41 +0800</lastBuildDate>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://sakurachen297.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>如何用GithubPages预览HTML</title>
-      <link>http://example.org/posts/1/</link>
+      <link>http://sakurachen297.github.io/posts/1/</link>
       <pubDate>Wed, 18 Mar 2020 12:53:41 +0800</pubDate>
       
-      <guid>http://example.org/posts/1/</guid>
+      <guid>http://sakurachen297.github.io/posts/1/</guid>
       <description>本博客将带来一次GitHub Pages预览HTML的小教程，教程的建立在你已经熟悉了一系列命令行的操作。
 步骤如下：   首先在GitHub中建立一个仓库，期间注意所有的选项都不要打勾哦！
   然后在你已经创建好的含有index.html的目录中打开VSCode。
